@@ -1,0 +1,1 @@
+The aim of this assignment is to explore interesting insights about Bollywood movies released in 2016 using R.
